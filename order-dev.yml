@@ -4,6 +4,4 @@ spring:
   application:
     name: client3
 env:
-  dev
-my:
-  give me a chance
+  dev123
