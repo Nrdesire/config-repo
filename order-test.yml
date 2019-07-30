@@ -11,5 +11,5 @@ eureka:
 env:
   test
   
-1:
-  2
+label:
+  test
