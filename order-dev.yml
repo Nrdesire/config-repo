@@ -5,3 +5,5 @@ spring:
     name: client3
 env:
   dev
+my:
+  give me a chance
