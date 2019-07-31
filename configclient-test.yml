@@ -1,5 +1,5 @@
 env: test
-env1: test11122212222222222223ppppp
+env1: test11122212222222222223pppppush
 env2: test2
 spring:
   application:
